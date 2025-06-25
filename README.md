@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ratnesh Kumar Ratnakar<br>I'm currently learning Web Development
+Hi, I'm Ratnesh Kumar Ratnakar<br> Learning web development and exploring frontend and backend technologies.
 
 
 ## 🌐 Socials:
